@@ -24,7 +24,6 @@ module.exports = ((env, argv) => {
 			extensions: ['.ts', '.js']
 		},
 
-		mode: env?.production ? 'production' : 'development',
 		devtool: 'source-map',
 	}
 })()

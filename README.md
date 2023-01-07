@@ -1,1 +1,1 @@
-# Raycasting test engine
+# Ray casting engine
